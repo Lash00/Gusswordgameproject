@@ -143,9 +143,7 @@ input[type="text"] {
         flex-basis: 100%;
     }
 
-    .left div>p {
-        margin-left: 50px;
-    }
+
 
     .left {
         margin-top: 20px;
